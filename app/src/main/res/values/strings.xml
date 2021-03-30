@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Calculator</string>
-    <string name="new_string">new_string</string>
+    <string name="app_name" translatable="false">Calculator</string>
 </resources>
