@@ -22,8 +22,11 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_weight="1"
+                android:height="150dp"
+                android:background="#03A9F4"
                 android:gravity="right|center_vertical"
                 android:text="0"
+                android:textColor="#FFFFFF"
                 android:textSize="36sp" />
         </TableRow>
 
@@ -40,7 +43,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="C"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnBack"
@@ -50,7 +53,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="BACK"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn_btn"
@@ -59,7 +62,7 @@
                 android:backgroundTint="#00FFFFFF"
                 android:minWidth="100dp"
                 android:minHeight="100dp"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnAddition"
@@ -69,7 +72,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="+"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -85,7 +88,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="7"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn8"
@@ -95,7 +98,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="8"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn9"
@@ -105,7 +108,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="9"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnDivision"
@@ -115,7 +118,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="/"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -131,7 +134,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="4"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn5"
@@ -141,7 +144,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="5"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn6"
@@ -151,7 +154,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="6"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnMultiplication"
@@ -161,7 +164,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="*"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -177,7 +180,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="1"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn2"
@@ -187,7 +190,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="2"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn3"
@@ -197,7 +200,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="3"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnSubtraction"
@@ -207,7 +210,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="-"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -223,7 +226,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="+/-"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btn0"
@@ -233,7 +236,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="0"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnComma"
@@ -242,8 +245,8 @@
                 android:backgroundTint="#2196F3"
                 android:minWidth="100dp"
                 android:minHeight="100dp"
-                android:text=","
-                android:textSize="36sp" />
+                android:text="."
+                android:textSize="24sp" />
 
             <Button
                 android:id="@+id/btnEqually"
@@ -253,7 +256,7 @@
                 android:minWidth="100dp"
                 android:minHeight="100dp"
                 android:text="="
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
     </TableLayout>
 
